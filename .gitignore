@@ -1,4 +1,3 @@
-/src/fpga/apf/apf_top.v
 /src/fpga/apf/build_id.mif
 /src/fpga/core/core_top.sv
 /src/fpga/core/pf
